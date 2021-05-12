@@ -1,0 +1,13 @@
+release/filewriter.o
+release/main.o
+release/mainwindow.o
+release/model.o
+release/networkaccess.o
+release/reader.o
+release/selector.o
+release/word.o
+release/moc_mainwindow.o
+release/moc_model.o
+release/moc_networkaccess.o
+release/moc_reader.o
+release/moc_selector.o
